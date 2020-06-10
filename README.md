@@ -5,6 +5,6 @@ University final project for Object Oriented Programming class.
 
 ## What I've learned
 
-* Developed virtual keyboard using Java for logic and SWING library for interface.
-* Implemented real-time interaction and color feedback between keyboard and interface.
-* Added pangrams with random generation.
+- Developed virtual keyboard using Java for logic and SWING library for interface
+- Implemented real-time interaction and color feedback between keyboard and interface
+- Added pangrams with random generation
