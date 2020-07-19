@@ -1,7 +1,7 @@
 # Virtual keyboard for typing practice
 University final project for Object Oriented Programming class.
 
-![image](https://user-images.githubusercontent.com/12193814/42961899-95a37e08-8b66-11e8-9422-894a32551d11.png)
+![image](https://user-images.githubusercontent.com/12193814/87873657-b3af2280-c999-11ea-930c-459acc756a76.png)
 
 ## What I've learned
 
